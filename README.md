@@ -22,3 +22,6 @@ HTML
 ##Objetos
 
 ##Gap só funciona com o grid
+
+o justify-content:center alinha no eixo Y
+já o align-itens:center alinha no eixo X
